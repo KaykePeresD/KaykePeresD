@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm studying front-end<br>
+I'm studying<br>
 
 
 ## 🌐 Socials:
