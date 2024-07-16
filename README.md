@@ -1,4 +1,4 @@
-## Hi there! I am Kayke Peres 👋
+## Hi there! 👋😉
 
 - 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech
 
