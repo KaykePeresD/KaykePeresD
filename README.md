@@ -1,6 +1,6 @@
 ## Hi there! 👋😉
 
-- 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech
+- 👩🏻‍💻 Developer sharing about my journey and learnings in tech
 
 - 👩🏻‍🎓 Currently Studying
 
