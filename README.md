@@ -26,6 +26,8 @@
   <a href="https://www.credly.com/earner/earned/badge/431a22de-ea02-438d-b0f0-f2e713898307"><img align="center" alt="Cloud Practitioner" height="80" width="80" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></a>
 
 
+
+##
 <div> 
   <a href="mailto:kaykeperes2910@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kayke-peres" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
