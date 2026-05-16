@@ -15,7 +15,6 @@
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="right" alt="perfil" height="200" width="200" src="https://i.pinimg.com/564x/78/cc/7f/78cc7f7e2b0ed3fad6540e9e2b4b6fd6.jpg">
 </div>
 
 ##
@@ -24,7 +23,7 @@
 
 <div style="display: inline_block">
   <a href="https://www.credly.com/earner/earned/badge/9ae3fb11-2303-452e-a489-4756471140ec"><img align="center" alt="Cloud Practitioner" height="80" width="80" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"></a>
-  <a href="https://www.credly.com/earner/earned/badge/431a22de-ea02-438d-b0f0-f2e713898307"><img align="center" alt="Cloud Practitioner" height="80" width="80" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"></a>
+  <a href="https://www.credly.com/earner/earned/badge/431a22de-ea02-438d-b0f0-f2e713898307"><img align="center" alt="Cloud Practitioner" height="80" width="80" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></a>
 ##
 
 <div> 
