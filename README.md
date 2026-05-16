@@ -5,6 +5,8 @@
 
 ##
 
+## Skills
+
 <div style="display: inline_block"><br>
   <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="GCP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">
@@ -17,9 +19,12 @@
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div>
 
+
 ##
 
 ## 🏅 AWS Certifications
+
+
 
 <div style="display: inline_block">
   <a href="https://www.credly.com/earner/earned/badge/9ae3fb11-2303-452e-a489-4756471140ec"><img align="center" alt="Cloud Practitioner" height="80" width="80" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"></a>
